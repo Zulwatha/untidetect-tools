@@ -183,6 +183,7 @@ Chrome [launch arguments](https://developer.chrome.com/docs/extensions/reference
 * [Cyberyozh](https://app.cyberyozh.com/reception-sms/residential/) - virtual + residential, expensive
 * [5Sim](https://5sim.net/) - expensive for some countries but has activation rate data available (Thailand for example)
 * [Get SMS Online](https://getsms.online/) - only USA numbers, top up from $5, rate from $0.10. Free numbers available for testing.
+* [SMSPool](https://www.smspool.net/) - a little expensive depending on services but accepts card payments, min top up $10
 
 # Proxies
 [List of proxy providers](https://github.com/TheGP/proxy-providers-list) - 25+ proxy providers with price comparison
